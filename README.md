@@ -4,8 +4,8 @@
 Nth attempt to put a collection of script online.
 
 by database
-- [oracle] (../oracle)
-- [mysql/mariadb] (../mysql)
+- [oracle] (oracle/README.md)
+- [mysql/mariadb] (mysql/README.md)
 - postgresql
 - sybase
 - hana
