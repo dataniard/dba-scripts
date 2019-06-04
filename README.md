@@ -4,7 +4,7 @@
 Nth attempt to put a collection of script online.
 
 by database
-- [oracle] (oracle/README.md)
+- [oracle] (dba-scripts/oracle)
 - [mysql/mariadb] (mysql/README.md)
 - postgresql
 - sybase
