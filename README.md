@@ -4,8 +4,8 @@
 Nth attempt to put a collection of script online.
 
 by database
-- oracle
-- mysql/mariadb
+- oracle (oracle)
+- mysql/mariadb (mysql)
 - postgresql
 - sybase
 - hana
