@@ -3,7 +3,7 @@
 
 ## sorted by database
 
-* [oracle] (https://github.com/dataniard/dba-scripts/tree/master/oracle)
+* [oracle](https://github.com/dataniard/dba-scripts/tree/master/oracle)
 * mysql/mariadb
 * postgresql
 * sybase
